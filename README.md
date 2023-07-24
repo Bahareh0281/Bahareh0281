@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+### My name is Bahareh
+### And I'm a Computer Engineering Student!
 <!--
 **Bahareh0281/Bahareh0281** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
